@@ -6,7 +6,7 @@ shadab.cs0058@gmail.com<br>
 ## Education
 - **B.Tech(*Computer Science and Engineering*)** with `66.4%` from *Dr. A. P. J. Abdul Kalam Technical University* in 2017
 - **Pre-University College** with `65.33%` from *Karnataka Board* in 2013
-- **High School** with `8.2CGPA` from *Central Board of Secondary Education* in 2010
+- **High School** with `8.2 CGPA` from *Central Board of Secondary Education* in 2010
 
 
 ## Courses
@@ -54,8 +54,8 @@ shadab.cs0058@gmail.com<br>
 - RushHelp (Android Version) at *HackInTheNorth* organized by IIIT Allahabad in 2016
 - RushHelp at *Open Source on Azure Hackathon* organized by Microsoft & Govt. of Telangana in 2016
 - Wearable device using LinkitOne at *Under25 Summit* organized by Under25, Bangalore in 2016
-- Home Monitoring System using Raspberry Pi at *IndiaHacks* organized by HackerEarth Bangalore in 2016
-- Home Automation using Arduino at *HackIndia*, Bangalore in 2015
+- Home Monitoring System using Raspberry Pi at *IndiaHacks* organized by HackerEarth, Bangalore in 2016
+- Home Automation using Arduino at *HackIndia* orgainzed by PES Institutions, Bangalore in 2015
 - Sidereal Pointer at *The Amateur Scientist* organized by PES Institutions, Bangalore in 2011
 
 
