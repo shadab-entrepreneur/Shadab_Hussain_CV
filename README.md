@@ -17,9 +17,9 @@ shadab.entrepreneur@outlook.com <br>
 
 ## Courses
 - **Technical**
-    - Android Developer Nanodegree Program from [Udacity](www.udacity.com)
-    - Core Java from Spectrum Technologies
-    - Network Management and Web Development from Netcamp
+    - Android Developer Nanodegree Program from [Udacity](https://profiles.udacity.com/p/5839348586)
+    - Core Java from [Spectrum Technologies](http://www.spectrumalld.com)
+    - Network Management and Web Development from [Netcamp](http://www.netcamp.in)
     - Design and Analysis of Algorithms from [Microsoft Research Bangalore, IN](www.mecr.org)
     - Data Structures from [Microsoft Research Bangalore, IN](www.mecr.org)
 - **Non-Technical**
@@ -57,13 +57,13 @@ Transcendental Functions at National Conference on Applications of Mathematical 
 
 
 ## Projects/Hackathons
-2016 Intelligent Disaster Prediction & Prevention System HackInOut, SVNIT Surat
-2016 RushHelp (Android Version) HackInTheNorth, IIIT Allahabad
-2016 RushHelp Open Source on Azure Hackathon, Microsoft & Govt. of Telangana
-2016 Wearable device using LinkitOne Under25, Bangalore
-2016 Home Monitoring System using Raspberry pi IndiaHacks, Bangalore
-2015 Home Automation using Arduino HackIndia, Bangalore
-2011 Sidereal Pointer The Amateur Scientist, PES Institutions Bangalore
+- Intelligent Disaster Prediction & Prevention System at HackInOut organized by SVNIT Surat in 2016
+- RushHelp (Android Version) at HackInTheNorth organized by IIIT Allahabad in 2016
+- RushHelp at Open Source on Azure Hackathon organized by Microsoft & Govt. of Telangana in 2016
+- Wearable device using LinkitOne at Under25 Summit organized by Under25, Bangalore in 2016
+- Home Monitoring System using Raspberry Pi at IndiaHacks organized by HackerEarth Bangalore in 2016
+- Home Automation using Arduino at HackIndia, Bangalore in 2015
+- Sidereal Pointer at The Amateur Scientist organized by PES Institutions, Bangalore in 2011
 
 
 ## Academic Awards/Achievements
@@ -75,17 +75,16 @@ Transcendental Functions at National Conference on Applications of Mathematical 
 
 
 ## Extra-Curricular Activities
-2016 – Present InsightSTEM Campus Ambassador InsightSTEM
-2015 – Present Team Member Google Developer Group, Allahabad
-2015 – Present Microsoft Student Partner Microsoft, India
-2015 - Present Secretary Rotaract Club of United Institute of Technology
-2015 - Present State Head of Uttar Pradesh Space Development Nexus
-2014 - Present Firefox Student Ambassador Mozilla Firefox
-2014 - Present HackerRank Campus Ambassador HackerRank
-2014 - Present HackerEarth Campus Ambassador HackerEarth
-2014 - 2015 Microsoft Student Partner Microsoft, India
-2014 - 2015 Climate Counsellor International Center for Culture & Education
-2014 - 2015 Director of International Services Rotaract Club of United Institute of Technology
+- InsightSTEM Campus Ambassador at InsightSTEM for 2016-2017
+- Team Member at Google Developer Group, Allahabad for 2015–Present
+- Microsoft Student Partner at Microsoft for 2014-2017
+- Secretary at Rotaract Club of United Institute of Technology for 2015-2016
+- State Head of Uttar Pradesh at Space Development Nexus for 2015-2017
+- Firefox Student Ambassador at Mozilla Firefox for  for 2014-2017
+- HackerRank Campus Ambassador at HackerRank for 2014-2017
+- HackerEarth Campus Ambassador at HackerEarth for 2014-2017
+- Climate Counsellor at International Center for Culture & Education for 2014-2015
+- Director of International Services at Rotaract Club of United Institute of Technology for 2014-2015
 
 
 ## Talks
