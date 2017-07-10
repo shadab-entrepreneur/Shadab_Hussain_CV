@@ -1,11 +1,5 @@
 # Shadab Hussain
-[LinkedIn](https://www.linkedin.com/in/shadabhussain96)
-[Facebook](https://www.facebook.com/shadab.786.hussain)
-[Twitter](https://twitter.com/shadabhusain786)
-[Instagram](https://www.instagram.com/ping.shadab)
-[Devpost](https://devpost.com/shadabhussain)
-[Angel.co](https://angel.co/shadab-hussain-2) <br>
-shadab.entrepreneur@outlook.com <br>
+shadab.entrepreneur@outlook.com<br>
 +919839261116
 
 
@@ -102,5 +96,10 @@ Transcendental Functions at National Conference on Applications of Mathematical 
 - ICCCCM(IEEE Sponsored) at United Institute of Technology, Allahabad in 2013
 
 
-I hereby declare that the above written particulars are true and correct to the best of my knowledge and
-belief.
+## Connect With Me
+[`LinkedIn`](https://www.linkedin.com/in/shadabhussain96)
+[`Facebook`](https://www.facebook.com/shadab.786.hussain)
+[`Twitter`](https://twitter.com/shadabhusain786)
+[`Instagram`](https://www.instagram.com/ping.shadab)
+[`Devpost`](https://devpost.com/shadabhussain)
+[`Angel.co`](https://angel.co/shadab-hussain-2) 
