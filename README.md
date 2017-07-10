@@ -71,7 +71,7 @@ shadab.cs0058@gmail.com<br>
 
 ## Extra-Curricular Activities
 - InsightSTEM Campus Ambassador at *InsightSTEM* for 2016-2017
-- Team Member at *Google Developer Group*, Allahabad for 2015–Present
+- Team Member at *Google Developer Group-Allahabad* for 2015–Present
 - Microsoft Student Partner at *Microsoft* for 2014-2017
 - Secretary at *Rotaract Club of United Institute of Technology* for 2015-2016
 - State Head of Uttar Pradesh at *Space Development Nexus* for 2015-2017
