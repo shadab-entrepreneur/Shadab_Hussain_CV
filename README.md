@@ -4,7 +4,7 @@ shadab.cs0058@gmail.com<br>
 
 
 ## Education
-- **Bachelor of Technology(*Computer Science and Engineering*)** with `66.4%` from *Dr. A. P. J. Abdul Kalam Technical University* in 2017
+- **B.Tech(*Computer Science and Engineering*)** with `66.4%` from *Dr. A. P. J. Abdul Kalam Technical University* in 2017
 - **Pre-University College** with `65.33%` from *Karnataka Board* in 2013
 - **High School** with `8.2CGPA` from *Central Board of Secondary Education* in 2010
 
