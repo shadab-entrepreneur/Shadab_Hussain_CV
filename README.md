@@ -1,5 +1,5 @@
 # Shadab Hussain
-shadab.entrepreneur@outlook.com<br>
+shadab.cs0058@gmail.com<br>
 +919839261116
 
 
