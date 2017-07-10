@@ -43,11 +43,10 @@ shadab.cs0058@gmail.com<br>
 
 
 ## Publications/Research Papers
-- Assessment of Interpolation Methods for Solving the Real Life Problem at International Conference on Mathematical Science and Applications (ICMSA) in 2014
-- Comparison/Optimization of Different Fitted Curves of an Experimental Data at International Conference on Mathematical Science and Applications (ICMSA) in 2014
-- Quadratically Convergent Algorithm for Computing Real Root of Non-Linear
-Transcendental Functions at National Conference on Applications of Mathematical and Engineering Sciences in 2014
-- A new Proposed Numerical Algorithm for Computing Real Root of Functions at National Conference on Emerging Trends in Physics of Fluids & Solids in 2015
+- Assessment of Interpolation Methods for Solving the Real Life Problem at *International Conference on Mathematical Science and Applications (ICMSA)* in 2014
+- Comparison/Optimization of Different Fitted Curves of an Experimental Data at *International Conference on Mathematical Science and Applications (ICMSA)* in 2014
+- Quadratically Convergent Algorithm for Computing Real Root of Non-Linear Transcendental Functions at *National Conference on Applications of Mathematical and Engineering Sciences* in 2014
+- A new Proposed Numerical Algorithm for Computing Real Root of Functions at *National Conference on Emerging Trends in Physics of Fluids & Solids* in 2015
 
 
 ## Projects/Hackathons
@@ -63,7 +62,7 @@ Transcendental Functions at National Conference on Applications of Mathematical 
 ## Academic Awards/Achievements
 - Received Full Scholarship for `Web Development Carrer Path` at [*The Iron Yard*](https://www.theironyard.com) from [*#YesWeCode*](www.yeswecodefund.com)
 - Got selected for attending [`MIT IoT Bootcamp`](http://bootcamp.mit.edu/iot/) at *MIT, Boston* in 2017
-- First winner in `Open Source on Azure Hackathon` organized by *Microsoft* in collaboration with *Govt. of Telangana* at Hyderabad in 2016
+- First winner in `Open Source on Azure Hackathon` organized by *Microsoft* & *Govt. of Telangana* at Hyderabad in 2016
 - Received Full Scholarship for `Android Developer Nanodegree Program` at [*Udacity*](https://www.udacity.com) from *Tata Trusts & Google* in 2016
 - Letter of Appreciation for `MEC Referral Challenge Phase 1 Spring` by *Microsoft Research* in 2015
 - Certificate of Appreciation for organizing and supporting `Microsoft Women in Tech` by *Microsoft Research* in 2015
