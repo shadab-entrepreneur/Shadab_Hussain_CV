@@ -50,13 +50,13 @@ shadab.cs0058@gmail.com<br>
 
 
 ## Projects/Hackathons
-- Intelligent Disaster Prediction & Prevention System at HackInOut organized by SVNIT Surat in 2016
-- RushHelp (Android Version) at HackInTheNorth organized by IIIT Allahabad in 2016
-- RushHelp at Open Source on Azure Hackathon organized by Microsoft & Govt. of Telangana in 2016
-- Wearable device using LinkitOne at Under25 Summit organized by Under25, Bangalore in 2016
-- Home Monitoring System using Raspberry Pi at IndiaHacks organized by HackerEarth Bangalore in 2016
-- Home Automation using Arduino at HackIndia, Bangalore in 2015
-- Sidereal Pointer at The Amateur Scientist organized by PES Institutions, Bangalore in 2011
+- Intelligent Disaster Prediction & Prevention System at *HackInOut* organized by SVNIT Surat in 2016
+- RushHelp (Android Version) at *HackInTheNorth* organized by IIIT Allahabad in 2016
+- RushHelp at *Open Source on Azure Hackathon* organized by Microsoft & Govt. of Telangana in 2016
+- Wearable device using LinkitOne at *Under25 Summit* organized by Under25, Bangalore in 2016
+- Home Monitoring System using Raspberry Pi at *IndiaHacks* organized by HackerEarth Bangalore in 2016
+- Home Automation using Arduino at *HackIndia*, Bangalore in 2015
+- Sidereal Pointer at *The Amateur Scientist* organized by PES Institutions, Bangalore in 2011
 
 
 ## Academic Awards/Achievements
@@ -70,21 +70,21 @@ shadab.cs0058@gmail.com<br>
 
 
 ## Extra-Curricular Activities
-- InsightSTEM Campus Ambassador at InsightSTEM for 2016-2017
-- Team Member at Google Developer Group, Allahabad for 2015–Present
-- Microsoft Student Partner at Microsoft for 2014-2017
-- Secretary at Rotaract Club of United Institute of Technology for 2015-2016
-- State Head of Uttar Pradesh at Space Development Nexus for 2015-2017
-- Firefox Student Ambassador at Mozilla Firefox for  for 2014-2017
-- HackerRank Campus Ambassador at HackerRank for 2014-2017
-- HackerEarth Campus Ambassador at HackerEarth for 2014-2017
-- Climate Counsellor at International Center for Culture & Education for 2014-2015
-- Director of International Services at Rotaract Club of United Institute of Technology for 2014-2015
+- InsightSTEM Campus Ambassador at *InsightSTEM* for 2016-2017
+- Team Member at *Google Developer Group*, Allahabad for 2015–Present
+- Microsoft Student Partner at *Microsoft* for 2014-2017
+- Secretary at *Rotaract Club of United Institute of Technology* for 2015-2016
+- State Head of Uttar Pradesh at *Space Development Nexus* for 2015-2017
+- Firefox Student Ambassador at *Mozilla Firefox* for 2014-2017
+- HackerRank Campus Ambassador at *HackerRank* for 2014-2017
+- HackerEarth Campus Ambassador at *HackerEarth* for 2014-2017
+- Climate Counsellor at *International Center for Culture & Education* for 2014-2015
+- Director of International Services at *Rotaract Club of United Institute of Technology* for 2014-2015
 
 
 ## Talks
-- Introduction to Big Data and Trends at United College of Engineering and Management, Allahabad in 2015
-- How Technology Has Changed in The Last 20 Years at United Institute of Technology, Allahabad in 2014
+- Introduction to Big Data and Trends at *United College of Engineering and Management, Allahabad* in 2015
+- How Technology Has Changed in The Last 20 Years at *United Institute of Technology, Allahabad* in 2014
 
 
 ## Conferences/Meetups
