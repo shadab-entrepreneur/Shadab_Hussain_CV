@@ -17,11 +17,11 @@ shadab.cs0058@gmail.com<br>
     - Design and Analysis of Algorithms from [Microsoft Research Bangalore, IN](www.mecr.org)
     - Data Structures from [Microsoft Research Bangalore, IN](www.mecr.org)
 - **Non-Technical**
-    - Basics of finance from HP LIFE e-Learning Certificates
-    - Effective Presentations from  HP LIFE e-Learning Certificates
-    - Social Media Marketing from HP LIFE e-Learning Certificates
-    - Unique value proposition from HP LIFE e-Learning Certificates
-    - Maximizing capacity from HP LIFE e-Learning Certificates
+    - Basics of finance from [HP LIFE e-Learning Certificates](http://e-learning.life-global.org/)
+    - Effective Presentations from  [HP LIFE e-Learning Certificates](http://e-learning.life-global.org/)
+    - Social Media Marketing from [HP LIFE e-Learning Certificates](http://e-learning.life-global.org/)
+    - Unique value proposition from [HP LIFE e-Learning Certificates](http://e-learning.life-global.org/)
+    - Maximizing capacity from [HP LIFE e-Learning Certificates](http://e-learning.life-global.org/)
 
 
 ## Skills
@@ -88,7 +88,7 @@ Transcendental Functions at National Conference on Applications of Mathematical 
 - How Technology Has Changed in The Last 20 Years at United Institute of Technology, Allahabad in 2014
 
 
-## Conferences
+## Conferences/Meetups
 - Web Summit at Lisbon-Portugal in 2016
 - Mozilla India Meetup at Pune in 2016
 - Machine Learning and Data Science Conference at Bangalore in 2016
