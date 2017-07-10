@@ -61,11 +61,13 @@ Transcendental Functions at National Conference on Applications of Mathematical 
 
 
 ## Academic Awards/Achievements
-- First winner in Open Source on Azure Hackathon organized by *Microsoft* in collaboration with *Govt. of Telangana* at Hyderabad in 2016
-- Received Scholarship for Udacity Android Developer Nanodegree program from *Tata Trusts & Google* in 2016
-- Letter of Appreciation for MEC Referral Challenge Phase 1 Spring by *Microsoft Research* in 2015
-- Certificate of Appreciation for organizing and supporting *Microsoft Women in Tech* in 2015
-- Distinction in the Senior Division of *Royal Australian Chemistry Quiz* in 2011
+- Received Full Scholarship for `Web Development Carrer Path` at [*The Iron Yard*](https://www.theironyard.com) from [*#YesWeCode*](www.yeswecodefund.com)
+- Got selected for attending [`MIT IoT Bootcamp`](http://bootcamp.mit.edu/iot/) at *MIT, Boston* in 2017
+- First winner in `Open Source on Azure Hackathon` organized by *Microsoft* in collaboration with *Govt. of Telangana* at Hyderabad in 2016
+- Received Full Scholarship for `Android Developer Nanodegree Program` at [*Udacity*](https://www.udacity.com) from *Tata Trusts & Google* in 2016
+- Letter of Appreciation for `MEC Referral Challenge Phase 1 Spring` by *Microsoft Research* in 2015
+- Certificate of Appreciation for organizing and supporting `Microsoft Women in Tech` by *Microsoft Research* in 2015
+- Distinction in the Senior Division of `Australian National Chemistry Quiz` organized by *Royal Australian Chemistry Institute* in 2011
 
 
 ## Extra-Curricular Activities
