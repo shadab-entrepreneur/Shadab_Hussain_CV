@@ -1,6 +1,10 @@
 # Shadab Hussain
-[LinkedIn](https://www.linkedin.com/in/shadabhussain96) 
-[Github](https://www.github.com/shadab-entrepreneur)<br>
+[LinkedIn](https://www.linkedin.com/in/shadabhussain96)
+[Facebook](https://www.facebook.com/shadab.786.hussain)
+[Twitter](https://twitter.com/shadabhusain786)
+[Instagram](https://www.instagram.com/ping.shadab)
+[Devpost](https://devpost.com/shadabhussain)
+<br>
 shadab.entrepreneur@outlook.com <br>
 +919839261116
 
@@ -63,11 +67,11 @@ Transcendental Functions at National Conference on Applications of Mathematical 
 
 
 ## Academic Awards/Achievements
-2016 First winner in Open Source on Azure Hackathon Microsoft and Govt. of Telangana
-2016 Udacity Android Developer Nanodegree program Tata Trusts & Google Scholarship
-2015 Letter of Appreciation MEC Referral Challenge Phase 1 Spring, Microsoft Research
-2015 Certificate of Appreciation for organizing and supporting Microsoft Women in Tech
-2011 Distinction in the senior division Royal Australian Chemistry Quiz
+- First winner in Open Source on Azure Hackathon organized by *Microsoft* in collaboration with *Govt. of Telangana* at Hyderabad in 2016
+- Received Scholarship for Udacity Android Developer Nanodegree program from *Tata Trusts & Google* in 2016
+- Letter of Appreciation for MEC Referral Challenge Phase 1 Spring by *Microsoft Research* in 2015
+- Certificate of Appreciation for organizing and supporting *Microsoft Women in Tech* in 2015
+- Distinction in the Senior Division of *Royal Australian Chemistry Quiz* in 2011
 
 
 ## Extra-Curricular Activities
@@ -85,20 +89,19 @@ Transcendental Functions at National Conference on Applications of Mathematical 
 
 
 ## Talks
-2015 Introduction to Big Data and Trends UCEM, Allahabad, IN
-2014 How Technology Has Changed in The Last 20 Years UIT, Allahabad, IN
+- Introduction to Big Data and Trends at United College of Engineering and Management, Allahabad in 2015
+- How Technology Has Changed in The Last 20 Years at United Institute of Technology, Allahabad in 2014
 
 
 ## Conferences
-2016 Web Summit, Lisbon-Portugal
-2016 Mozilla India Meetup, Mozilla
-2016 Machine Learning and Data Science Conference Microsoft, Bangalore
-2016 Android Roadshow Google, India
-2016 Electronics for You Conference Bangalore International Exhibition Center, Bangalore
-2016 Space Development Network Conference Indian Institute of Science, Bangalore
-2013 ICCCCM United Institute of Technology, IEEE Sponsored
+- Web Summit at Lisbon-Portugal in 2016
+- Mozilla India Meetup at Pune in 2016
+- Machine Learning and Data Science Conference at Bangalore in 2016
+- Android Roadshow at Delhi in 2016
+- Electronics for You Conference at Bangalore International Exhibition Center, Bangalore in 2016
+- Space Development Network Conference at Indian Institute of Science, Bangalore in 2016
+- ICCCCM(IEEE Sponsored) at United Institute of Technology, Allahabad in 2013
 
 
 I hereby declare that the above written particulars are true and correct to the best of my knowledge and
 belief.
-Date: 20th Nov, 2016 Shadab Hussain
