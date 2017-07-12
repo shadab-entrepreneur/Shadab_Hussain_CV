@@ -88,12 +88,17 @@ shadab.cs0058@gmail.com<br>
 
 
 ## Conferences/Meetups
+- Microsoft Student Partner Summit at BITS-Pilani in 2017
+- Xamarin Meetup at Innov8, Delhi in 2017
+- PyData Meetup at Indraprastha Institute of Technology, Delhi in 2017
 - Web Summit at Lisbon-Portugal in 2016
 - Mozilla India Meetup at Pune in 2016
+- Machine Learning and Data Science Conference by Microsoft, Bangalore in 2016
 - Machine Learning and Data Science Conference at Bangalore in 2016
 - Android Roadshow at Delhi in 2016
 - Electronics for You Conference at Bangalore International Exhibition Center, Bangalore in 2016
 - Space Development Network Conference at Indian Institute of Science, Bangalore in 2016
+- Microsoft Student Partner Summit at Gyan Ganga Institute of Technology, Bhopal in 2014
 - ICCCCM(IEEE Sponsored) at United Institute of Technology, Allahabad in 2013
 
 
