@@ -16,6 +16,9 @@ shadab.cs0058@gmail.com<br>
     - Network Management and Web Development from [Netcamp](http://www.netcamp.in)
     - Design and Analysis of Algorithms from [Microsoft Research Bangalore, IN](www.mecr.org)
     - Data Structures from [Microsoft Research Bangalore, IN](www.mecr.org)
+    - Google Cloud Platform Fundamentals: Core Infrastructure [Coursera](https://www.coursera.org/account/accomplishments/certificate/VKSGB3VA3ABP)
+    - Neural Networks and Deep Learning [Coursera](https://www.coursera.org/account/accomplishments/certificate/KFX96JRL3X4B)
+    - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization [Coursera](https://www.coursera.org/account/accomplishments/certificate/URGN63SBFXAL)
 - **Non-Technical**
     - Basics of finance from [HP LIFE e-Learning Certificates](http://e-learning.life-global.org/)
     - Effective Presentations from  [HP LIFE e-Learning Certificates](http://e-learning.life-global.org/)
@@ -28,7 +31,7 @@ shadab.cs0058@gmail.com<br>
 - **Technical**
     - Implementation of Data Structure using C
     - Algorithms
-    - Languages- C, HTML, CSS, Core Java, XML,
+    - Languages- Python, SQL, C, HTML, CSS, Core Java, XML,
     - Web Development and Networking
     - Android App Development
     - Database Designing & Handling
